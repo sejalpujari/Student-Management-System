@@ -10,4 +10,4 @@ A simple Student Management System built using Django, demonstrating CRUD operat
 🛠 Tech Stack
 Backend: Django (Python)
 Frontend: HTML, CSS, Bootstrap
-Database: SQLite (default, can be switched to PostgreSQL/MySQL)
+Database: MYSQL
